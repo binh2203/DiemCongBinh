@@ -10,3 +10,4 @@
 - Softskills: Teamwork, Communication
 - Tools: Git, Docker
 - English: TOEIC 510
+- Email: diemcongbinh2002@gmail.com
