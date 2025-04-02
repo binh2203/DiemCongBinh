@@ -1,1 +1,12 @@
-# DiemCongBinh
+- Name: Diêm Công Bình
+- Birth: 22/03/2002
+- Address: 566 Nguyễn Thái Sơn, Phường 5, Gò Vấp, TP. HCM
+- Hometown: Đắk Lắk
+- Hobby: Đá bóng
+- Programming Languages: Python, Java (focus on backend & AI development)
+- AI Frameworks: Tensorflow, Pytorch, YOLO, VietOCR
+- Cloud Services: AWS
+- Databases: SQL Server, MongoDB
+- Softskills: Teamwork, Communication
+- Tools: Git, Docker
+- English: TOEIC 510
